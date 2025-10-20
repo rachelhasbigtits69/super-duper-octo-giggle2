@@ -1,0 +1,17 @@
+mltbenv/
+accounts/
+thumbnails/
+rclone/
+tokens/
+sabnzbd/
+downloads/
+tdlib_user/
+tdlib_bot/
+config.py
+token.pickle
+rclone.conf
+.netrc
+log.txt
+cfg.zip
+list_drives.txt
+cookies.txt
