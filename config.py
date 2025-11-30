@@ -77,7 +77,7 @@ THUMBNAIL_LAYOUT = ""
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
 BASE_URL = "http://sheer-dacia-infinitysarah-e9119cf4.koyeb.app/"
-BASE_URL_PORT = 80
+BASE_URL_PORT = 8000
 WEB_PINCODE = False
 # Queueing system
 QUEUE_ALL = 0
