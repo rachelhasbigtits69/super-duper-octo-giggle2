@@ -76,7 +76,7 @@ LEECH_DUMP_CHAT = ""
 THUMBNAIL_LAYOUT = ""
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
-BASE_URL = ""
+BASE_URL = "http://sheer-dacia-infinitysarah-e9119cf4.koyeb.app/"
 BASE_URL_PORT = 0
 WEB_PINCODE = False
 # Queueing system
