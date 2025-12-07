@@ -76,13 +76,13 @@ LEECH_DUMP_CHAT = ""
 THUMBNAIL_LAYOUT = ""
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
-BASE_URL = "http://sheer-dacia-infinitysarah-e9119cf4.koyeb.app/"
+BASE_URL = "http://appropriate-katti-test2sarah-ac3244a6.koyeb.app/"
 BASE_URL_PORT = 8000
 WEB_PINCODE = False
 # Queueing system
-QUEUE_ALL = 0
-QUEUE_DOWNLOAD = 0
-QUEUE_UPLOAD = 0
+QUEUE_ALL = 4
+QUEUE_DOWNLOAD = 3
+QUEUE_UPLOAD = 1
 # RSS
 RSS_DELAY = 600
 RSS_CHAT = ""
